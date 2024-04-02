@@ -1,0 +1,30 @@
+        
+*{
+    font-family: 'Helvetica Neue', sans-serif;
+}
+.logo img{
+    width: 25px;
+}
+.message i,.call i,.star i,.archive i,.settings i{
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.star{
+    margin-top: 330px;
+}
+.status img{
+    width: 20px;
+    cursor: pointer;
+}
+.profilepic img{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin-left: 18px;
+    cursor: pointer;
+}

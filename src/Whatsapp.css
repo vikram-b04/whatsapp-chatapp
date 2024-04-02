@@ -1,0 +1,26 @@
+.openingpage{
+    background-color: #333333;
+    width: 70vw;
+    height: 92.5vh;
+    margin-top: 4px;
+}
+.chatinterface{
+    margin-left: 1px;
+}
+.whatsappicon{
+    color: #6d6767;
+    font-size: 50px;
+}
+.contents p{
+    color: rgb(182, 177, 177);
+    font-size: 15px;
+}
+.encrypted p{
+    color: #6d6767;
+    font-size: 15px;
+}
+.lock i{
+    color: #6d6767;
+    font-size: 15px;
+    
+}
